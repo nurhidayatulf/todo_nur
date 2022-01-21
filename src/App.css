@@ -1,0 +1,44 @@
+.App {
+    width: 100%;
+    padding-top: 20px;
+}
+.WrapCard {
+    width: 500px;
+    height: 200px;
+    border: 1px solid black;
+    margin: auto;
+    margin-bottom: 10px;
+}
+.Card {
+    display: flex;
+}
+
+.Wrapprofile {
+    width: 200px;
+}
+
+.profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    background-color: red;
+    line-height: 200px;
+    margin: auto;
+    text-align: center;
+}
+
+.profile p {
+    line-height: 150px;
+}
+
+.Text {
+    width: 300px;
+}
+
+.Link {
+    display: flex;
+    justify-content: flex-end;
+    width: 100%;
+    padding-right: 50px;
+    align-content: space-between;
+}
